@@ -31,6 +31,7 @@
     "jspdf-autotable": "^3.5.13",
     "moment": "^2.29.1",
     "ngx-material-timepicker": "^5.5.3",
+    "ngx-socket-io": "0.0.0",
     "rxjs": "~6.6.0",
     "tslib": "^2.0.0",
     "zone.js": "~0.10.2"
