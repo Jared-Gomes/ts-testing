@@ -32,6 +32,7 @@
     "moment": "^2.29.1",
     "ngx-material-timepicker": "^5.5.3",
     "ngx-socket-io": "0.0.0",
+    "number-to-words": "^1.2.4",
     "rxjs": "~6.6.0",
     "tslib": "^2.0.0",
     "zone.js": "~0.10.2"
